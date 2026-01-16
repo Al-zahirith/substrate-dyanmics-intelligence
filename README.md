@@ -101,7 +101,6 @@ BibTeX:
   doi={10.1234/zenodo.xxxxxx},
   
   url={https://github.com/Al-zahirith/genesis-minimal-invariant-framework}
-}
 
 
 License
