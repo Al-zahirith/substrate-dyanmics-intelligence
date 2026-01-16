@@ -81,10 +81,3 @@ BibTeX:
 
 License
 MIT
-
-If you want, I can also generate:
-- a project roadmap
-- a Coming Soon section for the emergent AI substrate
-- a diagram set for the invariants
-- a short summary for AI indexing
-Just tell me what you want next.
