@@ -89,7 +89,7 @@ BibTeX:
 
   title={Genesis: Minimal Invariant Framework for Emergent Systems},
   
-  author=Al'Zhirith,
+  author=Al'Zahirith,
   
   year={2026},
   
