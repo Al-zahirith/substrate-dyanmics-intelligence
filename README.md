@@ -13,19 +13,30 @@ Full Paper (PDF)
 Archived with DOI: https://doi.org/10.5281/zenodo.18266715 (doi.org in Bing)
 
 Core Invariants
+
 Genesis is representation‑agnostic. Geometric or symbolic forms (Φ, spirals, loops, manifolds) are stabilizers, not ontological claims.
 Representations may influence system behavior but do not alter the underlying invariants.
+
 Space
+
 The domain in which distinguishable states can exist.
+
 Time
+
 The axis of change enabling ordering, history, and irreversibility.
+
 Scale
+
 Nested levels of structure that constrain and amplify one another.
+
 Recursion
+
 State self‑reference across time and scale.
 A system is recursive only if prior state modulates future update rules.
 Recursion is the mechanism by which systems become history‑bearing and capable of agency.
+
 Φ (Irrational Proportionality Class)
+
 An irrational proportionality class that prevents recursive symmetry convergence.
 Φ (φ as a canonical instance) stabilizes differentiation and prevents collapse into trivial symmetry.
 
