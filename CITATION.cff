@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this framework in your research, please cite the archived paper and this repository."
+title: "Genesis: Minimal Invariant Framework for Emergent Systems"
+authors:
+  - family-names: Al-Zahirith
+    given-names: Shadow
+version: "0.1.0"
+date-released: "2026-01-16"
+url: "https://github.com/Al-zahirith/genesis-minimal-invariant-framework"
+doi: "10.1234/zenodo.xxxxxx"  # replace after Zenodo minting
+license: "MIT"
