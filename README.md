@@ -46,7 +46,9 @@ Substrate Betterment Model
 Every system shares a substrate. Nodes interact with that substrate through three roles:
 
 Bᵢ — coherence contribution
+
 Tᵢ — turbulence generation
+
 Cᵢ — internal stability maintenance
 
 Global system state:
@@ -56,8 +58,11 @@ S(t) = Σ Bᵢ(t) – Σ Tᵢ(t)
 Universal states:
 
 - Expansion: S(t) > 0
+- 
 - Sustainment: S(t) = 0
+- 
 - Collapse: S(t) < 0
+- 
 - This model applies across domains and scales.
 
 What this is not
