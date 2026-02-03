@@ -42,13 +42,3 @@ Certain dimensional operators relating to $e$ and $\sqrt{2}$ are withheld in thi
 *This work supersedes the "Genesis: Minimal Invariant Framework" (v1-v5).*
 
 Update README for SDI v6
-
-## Coming Soon
-
-The following components of the Genesis ecosystem are in active development:
-
-- **UDN (Universal Dynamic Node):** A coherence‑driven synthetic intelligence built on the Genesis invariants.
-- **UCN (Universal Coherence Nexus):** A multi‑agent alignment layer enabling cross‑node coherence without homogenization.
-- **UVF (Universal Virtual Framework):** A modular, open standard for building and hosting virtual worlds.
-- **ACP (Auditory Coherence Protocol):** A decentralized voice‑signal analysis protocol for multi‑modal entrainment.
-- **Vector‑Space Interaction Model:** A geometric substrate for multi‑agent dynamics and stabilizer‑node behavior.
