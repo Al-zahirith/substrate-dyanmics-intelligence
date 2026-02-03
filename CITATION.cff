@@ -1,11 +1,16 @@
 cff-version: 1.2.0
 message: "If you use this framework in your research, please cite the archived paper and this repository."
-title: "Genesis: Minimal Invariant Framework for Emergent Systems"
 authors:
-  - family-names: Al-Zahirith
-    given-names: Shadow
-version: "0.1.0"
-date-released: "2026-01-16"
-url: "https://github.com/Al-zahirith/genesis-minimal-invariant-framework"
-doi: "10.5281/zenodo.18266715"  
-license: "MIT"
+  - family-names: "Al'Zahirith"
+title: "Substrate Dynamics of Intelligence: A Minimal Invariant Framework for Emergent Coherence"
+version: "6.0.0"
+date-released: "2026-02-02"
+url: "https://github.com/Al-zahirith/substrate-dynamics-intelligence"
+doi: Pending
+license: "CC-BY-NC-ND-4.0"
+keywords:
+  - emergent intelligence
+  - substrate dynamics
+  - STAR+Phi
+  - bilateral architecture
+  - coherence logic
