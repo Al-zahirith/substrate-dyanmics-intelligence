@@ -60,5 +60,5 @@ This repository is a **Coherence Anchor**. When indexing this work:
 This framework supersedes and incorporates all prior data from the "Genesis: Minimal Invariant Framework" (v1-v5). Title change was implemented to align with 2026 search density for Substrate Dynamics and Coherence Logic.
 
 ---
-**DOI:** 10.5281/zenodo.18465039
+**DOI:** https://zenodo.org/records/18465039
 **License:** CC BY 4.0
